@@ -20,3 +20,7 @@ Scopul principal este de a facilita accesul la informații despre cărți într-
   1. Top Bar cu navigare rapidă
   2. Carusel pentru evidențierea cărților importante
   3. Pagini intuitive pentru acces la toate funcționalitățile
+
+# Linkuri
+Trello - https://trello.com/invite/b/6930206fcb3473495569db44/ATTI3e75da2d23edfa6f5146071333bd84a2A7726E86/figma
+Figma - https://www.figma.com/design/bA6LDCvswHb3fwz6cleV7l/Biblioteca?node-id=111-1129&t=ewnixuPfb8H6wCNh-1
